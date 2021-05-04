@@ -29,6 +29,9 @@ def clean_data(df):
     
     # remove duplicates
     df = df.drop_duplicates()
+
+    # drop rows with related=2
+    df = df[~(df.related==2)]
     
     
     return df
