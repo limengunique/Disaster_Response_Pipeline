@@ -3,29 +3,6 @@
 This project build ETL & Machine Learning pipelines to build a model for an API that classifies disaster messages
 
 ## File structure
-* app
-* 
-* data
-* models
-* WebApp screenshots/pdf
-* requirements.txt
-* README.md
-* app     
-│   ├── run.py                           # Flask file that runs app
-│   └── templates   
-│       ├── go.html                      # Classification result page of web app
-│       └── master.html                  # Main page of web app    
-├── data                   
-│   ├── disaster_categories.csv          # Dataset including all the categories  
-│   ├── disaster_messages.csv            # Dataset including all the messages
-│   └── process_data.py                  # Data cleaning
-├── models
-│   ├── train_classifier.py              # Train ML model
-│   └── classifier.pkl                   # pikkle file of model   
-|   
-|── requirements.txt                     # contains versions of all libraries used.
-|
-└── README.md
 ![image](https://user-images.githubusercontent.com/52469788/117084208-71be5580-acfb-11eb-80c1-add230834fb0.png)
 
 ## Data Source
