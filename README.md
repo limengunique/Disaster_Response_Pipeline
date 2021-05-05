@@ -3,8 +3,14 @@
 This project build ETL & Machine Learning pipelines to build a model for an API that classifies disaster messages
 
 ## File structure
-.
-├── app     
+* app
+*   asdf
+* data
+* models
+* WebApp screenshots/pdf
+* requirements.txt
+* README.md
+* app     
 │   ├── run.py                           # Flask file that runs app
 │   └── templates   
 │       ├── go.html                      # Classification result page of web app
