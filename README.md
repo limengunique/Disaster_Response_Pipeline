@@ -26,6 +26,7 @@ This project build ETL & Machine Learning pipelines to build a model for an API 
 |── requirements.txt                     # contains versions of all libraries used.
 |
 └── README.md
+![image](https://user-images.githubusercontent.com/52469788/117084208-71be5580-acfb-11eb-80c1-add230834fb0.png)
 
 ## Data Source
 Disaster text messages from Figure Eight
