@@ -4,7 +4,7 @@ This project build ETL & Machine Learning pipelines to build a model for an API 
 
 ## File structure
 * app
-*   asdf
+** asdf
 * data
 * models
 * WebApp screenshots/pdf
